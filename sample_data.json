@@ -1,0 +1,322 @@
+[
+    {
+        "_index": "products",
+        "_id": "RskcT5ABhPLAWcuLebuL",
+        "_score": 1.0,
+        "_source": {
+            "title": "Apple Iphone 7 (32gb)",
+            "code": "0007",
+            "description": "iPhone 7 offers an improved battery life, better performance, and advanced camera features. A perfect blend of style and functionality.",
+            "specifications": {
+                "brand": "apple",
+                "model": "7",
+                "camera": "12mp rear camera",
+                "battery": "2900 mah",
+                "storage": "32gb",
+                "colour": "silver",
+                "modelYear": 2016
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "apple",
+                "iphone"
+            ],
+            "reviewScore": 4,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61vFlq1TbDL._SX679_.jpg",
+            "price": 52000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "R8kcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Apple Iphone 11 (64gb)",
+            "code": "0011",
+            "description": "iPhone 11 features a dual-camera system and all-day battery life. Experience the powerful A13 Bionic chip and stunning display.",
+            "specifications": {
+                "brand": "apple",
+                "model": "11",
+                "camera": "12mp dual rear camera",
+                "battery": "3110 mah",
+                "storage": "64gb",
+                "colour": "white",
+                "modelYear": 2019
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "apple",
+                "iphone"
+            ],
+            "reviewScore": 5,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Z-6N4v0gL._SX679_.jpg",
+            "price": 75000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "SMkcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Samsung Galaxy S9 (64gb)",
+            "code": "1009",
+            "description": "Samsung Galaxy S9 offers a premium design with a powerful processor and a stunning camera for exceptional photography.",
+            "specifications": {
+                "brand": "samsung",
+                "model": "S9",
+                "camera": "12mp rear camera",
+                "battery": "3000 mah",
+                "storage": "64gb",
+                "colour": "blue",
+                "modelYear": 2018
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "samsung",
+                "galaxy"
+            ],
+            "reviewScore": 4,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61yS0D7hOGL._SX679_.jpg",
+            "price": 60000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "SckcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Google Pixel 3 (64gb)",
+            "code": "2003",
+            "description": "Google Pixel 3 offers a smart and smooth experience with the Google Assistant built-in and an excellent camera.",
+            "specifications": {
+                "brand": "google",
+                "model": "Pixel 3",
+                "camera": "12.2mp rear camera",
+                "battery": "2915 mah",
+                "storage": "64gb",
+                "colour": "black",
+                "modelYear": 2018
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "google",
+                "pixel"
+            ],
+            "reviewScore": 4,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71zLuSxRquL._SX679_.jpg",
+            "price": 58000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "SskcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "OnePlus 7T (128gb)",
+            "code": "3007",
+            "description": "OnePlus 7T comes with a Fluid AMOLED display and a powerful Snapdragon 855+ processor for a seamless experience.",
+            "specifications": {
+                "brand": "oneplus",
+                "model": "7T",
+                "camera": "48mp triple rear camera",
+                "battery": "3800 mah",
+                "storage": "128gb",
+                "colour": "frosted silver",
+                "modelYear": 2019
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "oneplus",
+                "7T"
+            ],
+            "reviewScore": 5,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71zcIMhZ7kL._SX679_.jpg",
+            "price": 70000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "S8kcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Xiaomi Redmi Note 9 Pro (128gb)",
+            "code": "4009",
+            "description": "Redmi Note 9 Pro features a quad-camera setup and a long-lasting battery, offering great value for money.",
+            "specifications": {
+                "brand": "xiaomi",
+                "model": "Redmi Note 9 Pro",
+                "camera": "48mp quad rear camera",
+                "battery": "5020 mah",
+                "storage": "128gb",
+                "colour": "aurora blue",
+                "modelYear": 2020
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "xiaomi",
+                "redmi"
+            ],
+            "reviewScore": 4,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71wT7ImRJwL._SX679_.jpg",
+            "price": 45000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "TMkcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Huawei P30 Pro (256gb)",
+            "code": "5001",
+            "description": "Huawei P30 Pro boasts a stunning quad-camera system and exceptional battery life, perfect for photography enthusiasts.",
+            "specifications": {
+                "brand": "huawei",
+                "model": "P30 Pro",
+                "camera": "40mp quad rear camera",
+                "battery": "4200 mah",
+                "storage": "256gb",
+                "colour": "breathing crystal",
+                "modelYear": 2019
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "huawei",
+                "p30"
+            ],
+            "reviewScore": 5,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61mKqtLgTjL._SX679_.jpg",
+            "price": 85000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "TckcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Sony Xperia XZ3 (64gb)",
+            "code": "6003",
+            "description": "Sony Xperia XZ3 offers a premium OLED display and advanced Motion Eye camera technology for stunning photos and videos",
+            "specifications": {
+                "brand": "sony",
+                "model": "XZ3",
+                "camera": "19mp rear camera",
+                "battery": "3330 mah",
+                "storage": "64gb",
+                "colour": "forest green",
+                "modelYear": 2018
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "sony",
+                "xperia"
+            ],
+            "reviewScore": 4,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81Fey5TbbML._SX679_.jpg",
+            "price": 65000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "TskcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Oppo Find X2 Pro (256gb)",
+            "code": "9002",
+            "description": "Oppo Find X2 Pro delivers a top-notch display, excellent camera performance, and a sleek design.",
+            "specifications": {
+                "brand": "oppo",
+                "model": "Find X2 Pro",
+                "camera": "48mp triple rear camera",
+                "battery": "4260 mah",
+                "storage": "256gb",
+                "colour": "ceramic black",
+                "modelYear": 2020
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "oppo",
+                "findx2"
+            ],
+            "reviewScore": 5,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61OpR3j5TLL._SX679_.jpg",
+            "price": 90000
+        }
+    },
+    {
+        "_index": "products",
+        "_id": "UckcT5ABhPLAWcuLebuR",
+        "_score": 1.0,
+        "_source": {
+            "title": "Realme X50 Pro (128gb)",
+            "code": "12005",
+            "description": "Realme X50 Pro offers a smooth and responsive performance with 5G connectivity and a versatile camera system.",
+            "specifications": {
+                "brand": "realme",
+                "model": "X50 Pro",
+                "camera": "64mp quad rear camera",
+                "battery": "4200 mah",
+                "storage": "128gb",
+                "colour": "rust red",
+                "modelYear": 2020
+            },
+            "author": "author",
+            "categories": [
+                "electronics",
+                "mobile"
+            ],
+            "tags": [
+                "mobile",
+                "realme",
+                "x50"
+            ],
+            "reviewScore": 4,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61DKcGr12OL._SX679_.jpg",
+            "price": 55000
+        }
+    }
+]
